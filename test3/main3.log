@@ -1,0 +1,30 @@
+Дата - 2024-10-13 14:19:15.811579
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x0000024514E3DEE0>
+-----------
+Дата - 2024-10-13 14:19:15.811579
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x0000024514E3DEE0>
+-----------
+Дата - 2024-10-13 14:19:15.811579
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x0000024514E3DEE0>
+-----------
+Дата - 2024-10-13 14:21:28.258476
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x000002327648DEE0>
+-----------
+Дата - 2024-10-13 14:21:28.258476
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x000002327648DEE0>
+-----------
+Дата - 2024-10-13 14:21:28.258476
+Имя функции - flat_generator
+Аргументы - (([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+Результат - <generator object flat_generator at 0x000002327648DEE0>
+-----------
