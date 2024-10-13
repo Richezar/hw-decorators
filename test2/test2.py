@@ -7,7 +7,7 @@ def logger(path):
         def new_function(*args, **kwargs):
             name = old_function.__name__
             res = old_function(*args, **kwargs)
-            with open(path, 'a', encoding='cp1251') as f:
+            with open(path, 'a', encoding='utf-8') as f:
                 f.write(f'Дата - {now}\n'
                         f'Имя функции - {name}\n'
                         f'Аргументы - {args, kwargs}\n'
